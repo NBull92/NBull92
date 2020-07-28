@@ -1,4 +1,5 @@
 [![Linkedin: Nicholas Bull](https://img.shields.io/badge/-nicholasbull-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-bull/)](https://www.linkedin.com/in/nicholas-bull)
+![GitHub followers](https://img.shields.io/github/followers/nbull92?label=Follow&style=social)
 
 ### Hi there 👋
 
