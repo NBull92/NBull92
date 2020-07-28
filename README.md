@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+Software Engineer/Tools Programmer at Ubisoft
+
+- 🔭 I’m currently working on ImprezGarage
+
 <!--
 **NBull92/NBull92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
