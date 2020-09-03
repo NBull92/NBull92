@@ -1,3 +1,6 @@
+
+![GitHub followers](https://img.shields.io/github/followers/nbull92?label=Follow&style=social)
+
 ### Hi there 👋
 
 Software Engineer/Tools Programmer at Ubisoft
@@ -27,7 +30,13 @@ I now work for Ubisoft on The Division.
 <a href="https://medium.com/@defterniko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@defterniko" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/uckj0rqrf1y3sjyrws6u-e-w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uckj0rqrf1y3sjyrws6u-e-w" height="30" width="30" /></a>
 </p>
-![GitHub followers](https://img.shields.io/github/followers/nbull92?label=Follow&style=social)
+
+<!--
+**NBull92/NBull92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Nicholas Bull](https://img.shields.io/badge/-nicholas_bull-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-bull/)](https://www.linkedin.com/in/nicholas-bull)
+[![](https://img.shields.io/badge/Email-nickbull-red)](mailto:nickbull@nickbull-computing.biz)
+Here are some ideas to get you started:
+
 
 ### Hi there 👋
 
@@ -40,12 +49,6 @@ I now work for Ubisoft on The Division.
 
 
 - 🔭 I’m currently working on ImprezGarage
-
-<!--
-**NBull92/NBull92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Linkedin: Nicholas Bull](https://img.shields.io/badge/-nicholas_bull-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-bull/)](https://www.linkedin.com/in/nicholas-bull)
-[![](https://img.shields.io/badge/Email-nickbull-red)](mailto:nickbull@nickbull-computing.biz)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
