@@ -12,7 +12,7 @@ I now work for Ubisoft on The Division Series.
 
 - 🔭 I’m currently working on [ImprezGarage](https://www.imprezgarage.com/)
 
-- 👨‍💻 All of my projects are available at [http://www.nickbull-computing.biz/](http://www.nickbull-computing.biz/)
+- 👨‍💻 All of my projects are available at [https://www.nickbull-computing.biz/projects](http://www.nickbull-computing.biz/)
 
 - 💬 Ask me about **C#, WPF, dotNet**
 
