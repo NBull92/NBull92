@@ -25,7 +25,7 @@ I now work for Ubisoft on The Division Series.
 <p align="center">
 <a href="https://dev.to/nbull92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nbull92" height="30" width="30" /></a>
 <a href="https://twitter.com/nbull92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nbull92" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicholas-bull/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nicholas-bull/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nicholas-bull/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nicholas-bull/" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/3835487" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3835487" height="30" width="30" /></a>
 <a href="https://medium.com/@defterniko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@defterniko" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCKj0rQrf1Y3sjYRws6u-E-w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uckj0rqrf1y3sjyrws6u-e-w" height="30" width="30" /></a>
