@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-Software Engineer/Tools Programmer at Ubisoft
+Senior Software Engineer/Tools Programmer at Ubisoft
 
-A Tools Programmer working in the Games Industry, that specialises in C#, WPF, MVVM and Prism. 
+A Senior Tools Programmer working in the Games Industry, that specialises in C#, WPF, MVVM and Prism. 
 I like to code in my free-time to enhance my skills and try new things, whether that be in C# or Android. 
 I've worked for Rockstar Games on Grand Theft Auto 5 and Red Dead Redemption 2. 
 I now work for Ubisoft, having started in the project manager tools team for The Division Series. I now work in the vehicle handling tools team.
