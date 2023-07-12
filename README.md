@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-A Senior Software Engineer | Senior Tools Programmer currently working at The Multiplayer Group, that specialises in C#, WPF, MVVM and Prism. I like to code in my free-time to enhance my skills and try new things, whether that be in C# or Android. I've worked for Rockstar Games on Grand Theft Auto 5 and Red Dead Redemption 2. I also worked for Ubisoft across multiple projects.
+A Senior Software Engineer | Senior Tools Programmer currently working at The Multiplayer Group, that specialises in C#, WPF. I like to code in my free-time to enhance my skills and try new things, whether that be in C# or Android. I've worked for Rockstar Games on Grand Theft Auto 5 and Red Dead Redemption 2. I also worked for Ubisoft across multiple projects.
 
 - 🔭 I’m currently working on [ImprezGarage](https://www.imprezgarage.com/)
 
